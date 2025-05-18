@@ -29,3 +29,8 @@ If both players choose the same shape, it's a draw, and they usually play again.
 
 Source code link -> [https://github.com/YoanaBorisova08/RockPaperScissorsGameByYoana/blob/main/rock_paper_scissors](https://github.com/YoanaBorisova08/RockPaperScissorsGameByYoana/blob/main/rock_paper_scissors.py)
 
+You can play the game directly in your browser here:
+
+[<img alt="Play Button" src="https://github.com/user-attachments/assets/f3f43403-8737-4056-95f4-2526c44b84bb" />](https://replit.com/@yoanasb08/RockPaperScissors#main.py)
+
+
