@@ -27,5 +27,5 @@ If both players choose the same shape, it's a draw, and they usually play again.
 
 
 
-Source code link -> https://github.com/YoanaBorisova08/RockPaperScissorsGameByYoana/blob/main/rock_paper_scissors
+Source code link -> [https://github.com/YoanaBorisova08/RockPaperScissorsGameByYoana/blob/main/rock_paper_scissors](https://github.com/YoanaBorisova08/RockPaperScissorsGameByYoana/blob/main/rock_paper_scissors.py)
 
